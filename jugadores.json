@@ -1,0 +1,185 @@
+{
+  "count": 1000,
+  "results": [
+    {
+      "nombre": "Sergio Romero",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 10000000
+    },
+    {
+      "nombre": "Leandro Brey",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 8000000
+    },
+    {
+      "nombre": "Javier García",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 6000000
+    },
+    {
+      "nombre": "Agustín Marchesín",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 12000000
+    },
+    {
+      "nombre": "Cristian Lema",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 9000000
+    },
+    {
+      "nombre": "Marcelo Saracchi",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 10000000
+    },
+    {
+      "nombre": "Nicolás Figal",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 8000000
+    },
+    {
+      "nombre": "Rodrigo Battaglia",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 9500000
+    },
+    {
+      "nombre": "Marcos Rojo",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 12000000
+    },
+    {
+      "nombre": "Luis Advíncula",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 9500000
+    },
+    {
+      "nombre": "Frank Fabra",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 7500000
+    },
+    {
+      "nombre": "Lautaro Blanco",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 8500000
+    },
+    {
+      "nombre": "Juan Barinaga",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 7000000
+    },
+    {
+      "nombre": "Ayrton Costa",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 8000000
+    },
+    {
+      "nombre": "Mateo Mendía",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 3000000
+    },
+    {
+      "nombre": "Exequiel Zeballos",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 4000000
+    },
+    {
+      "nombre": "Milton Giménez",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 6500000
+    },
+    {
+      "nombre": "Edinson Cavani",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 15000000
+    },
+    {
+      "nombre": "Lucas Janson",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 9500000
+    },
+    {
+      "nombre": "Miguel Ángel Merentiel",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 10500000
+    },
+    {
+      "nombre": "Carlos Palacios",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 8500000
+    },
+    {
+      "nombre": "Ignacio Miramón",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 9500000
+    },
+    {
+      "nombre": "Williams Alarcón",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 8000000
+    },
+    {
+      "nombre": "Agustín Martegani",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 9000000
+    },
+    {
+      "nombre": "Alan Velasco",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 12000000
+    },
+    {
+      "nombre": "Ander Herrera",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 13000000
+    },
+    {
+      "nombre": "Kevin Zenón",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 7000000
+    },
+    {
+      "nombre": "Tomás Belmonte",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 8000000
+    },
+    {
+      "nombre": "Santiago Dalmasso",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 6000000
+    },
+    {
+      "nombre": "Joaquín Ruiz",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 6000000
+    },
+    {
+      "nombre": "Lautaro Di Lollo",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 5000000
+    },
+    {
+      "nombre": "Lucas Blondel",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 5500000
+    },
+    {
+      "nombre": "Valentino Simoni",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 3500000
+    },
+    {
+      "nombre": "Esteban Rolón",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 8000000
+    },
+    {
+      "nombre": "Brian Aguirre",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 7500000
+    },
+    {
+      "nombre": "Camilo Rey Domenech",
+      "equipo": "Club Atlético Boca Juniors",
+      "precio": 3500000
+    }
+  ]
+}
