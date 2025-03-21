@@ -1,1 +1,1 @@
-![Diagrama Gran-DT](Gran-DT.png)
+![Diagrama Gran-DT](Gran-DTdiagrama.png)
